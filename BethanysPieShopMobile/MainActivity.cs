@@ -6,7 +6,7 @@ using Android.Widget;
 
 namespace BethanysPieShopMobile
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme")]
     public class MainActivity : AppCompatActivity
     {
         //This method is intended to be called the first time the activity is launched
